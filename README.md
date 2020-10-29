@@ -43,12 +43,12 @@ In order to complete your mission for today, you will need to write tests to hel
 
 _If you come across any "unexpected" behaviors in the form UI (not the test), try this flow:_
 
-- [ ] You may have noticed that the form validation for one of the inputs is a little off...
-- [ ] Write a test for the "expected" behavior (it will fail because something in the component is doing something unexpected)
-- [ ] Confirm that the test fails, because of the "unexpected" behavior
-- [ ] Look at the code in the project to find what is causing the behavior
-- [ ] Fix the code so that your new test passes
-- [ ] Celebrate that your test helped you find and fix a bug!
+- [X] You may have noticed that the form validation for one of the inputs is a little off...
+- [X] Write a test for the "expected" behavior (it will fail because something in the component is doing something unexpected)
+- [X] Confirm that the test fails, because of the "unexpected" behavior
+- [X] Look at the code in the project to find what is causing the behavior
+- [X] Fix the code so that your new test passes
+- [X] Celebrate that your test helped you find and fix a bug!
 
 ## Stretch goals
 
